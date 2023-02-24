@@ -4,4 +4,4 @@
 ***
 >Т.к. это учебный проект (шаблон), на смысл текстовых блоков не обращайте внимание, это просто наполнение (набор слов по типу "Lorem...").
 ***
-Сайт: karpenkods.github.io/3d-modeling-courses/
+Сайт: https://karpenkods.github.io/3d-modeling-courses/
